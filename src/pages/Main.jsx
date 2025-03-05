@@ -87,6 +87,7 @@ export default function MainPage() {
         background: "transparent",
         padding: 10,
         fontFamily: "system-ui, Avenir, Helvetica, Arial, sans-serif",
+        background: "#242424"
         color: "white", // Consistent text color
       }}
     >
@@ -181,7 +182,7 @@ export default function MainPage() {
             <strong>E-connect Solutions Pvt. Ltd. - Udaipur</strong> (Intern)
           </p>
           <p>Full Stack Developer</p>
-          <p style={{ fontSize: 12 }}>
+          <p style={{ fontSize: 14 }}>
             Worked on building scalable web applications using React and
             Node.js. Developed REST APIs and optimized UI performance.
           </p>
@@ -199,7 +200,7 @@ export default function MainPage() {
             <strong>Lentra.ai - Remote</strong> (Intern)
           </p>
           <p>Full Stack Developer</p>
-          <p style={{ fontSize: 12 }}>
+          <p style={{ fontSize: 14 }}>
             Built and integrated AI-driven solutions into financial products.
             Focused on microservices, API integration, and frontend
             enhancements.
@@ -250,20 +251,20 @@ export default function MainPage() {
       </div>
       <div>
         <h3 style={{ textAlign: "initial" }}>Skills</h3>
-        <p style={{ textAlign: "initial", fontSize: 13 }}>
+        <p style={{ textAlign: "initial", fontSize: 14 }}>
           Language:- Javascript, Typescript
         </p>
-        <p style={{ textAlign: "initial", fontSize: 13 }}>
+        <p style={{ textAlign: "initial", fontSize: 14 }}>
           Databases/Os:- PostgreSQL, MongoDb, Redis, Linux, Windows
         </p>
-        <p style={{ textAlign: "initial", fontSize: 13 }}>ORM:- Prisma</p>
-        <p style={{ textAlign: "initial", fontSize: 13 }}>
+        <p style={{ textAlign: "initial", fontSize: 14 }}>ORM:- Prisma</p>
+        <p style={{ textAlign: "initial", fontSize: 14 }}>
           Libraries:- Antd, Material-UI, Tailwind css, Zod, Mongoose, Redux
         </p>
-        <p style={{ textAlign: "initial", fontSize: 13 }}>
+        <p style={{ textAlign: "initial", fontSize: 14 }}>
           Frameworks:- React.js, Express.js
         </p>
-        <p style={{ textAlign: "initial", fontSize: 13 }}>
+        <p style={{ textAlign: "initial", fontSize: 14 }}>
           Tools:- Node.js, Websocket, RTK, Docker
         </p>
       </div>
