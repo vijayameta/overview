@@ -83,7 +83,7 @@ export default function MainPage() {
       animate={{ opacity: 1 }}
       transition={{ duration: 1 }}
       style={{
-        width: 700,
+        width: 760,
         background: "transparent",
         padding: 10,
         fontFamily: "system-ui, Avenir, Helvetica, Arial, sans-serif",
