@@ -87,7 +87,7 @@ export default function MainPage() {
         background: "transparent",
         padding: 10,
         fontFamily: "system-ui, Avenir, Helvetica, Arial, sans-serif",
-        background: "#242424"
+        background: "#242424",
         color: "white", // Consistent text color
       }}
     >
